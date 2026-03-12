@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="29.6.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Página-1" id="-abARhx1lCXNOfg355RL">
-    <mxGraphModel dx="1665" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2081" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JOLWe_h50yZFS5m-WW9a-12" edge="1" parent="1" source="JOLWe_h50yZFS5m-WW9a-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JOLWe_h50yZFS5m-WW9a-11" value="">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="895" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JOLWe_h50yZFS5m-WW9a-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Pix" vertex="1">
           <mxGeometry height="80" width="80" x="355" y="695" as="geometry" />
@@ -82,8 +86,41 @@
         <mxCell id="JOLWe_h50yZFS5m-WW9a-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Cartão Fidelidade" vertex="1">
           <mxGeometry height="80" width="80" x="195" y="695" as="geometry" />
         </mxCell>
-        <mxCell id="JOLWe_h50yZFS5m-WW9a-11" parent="1" style="whiteSpace=wrap;html=1;" value="Pago(Até breve)" vertex="1">
-          <mxGeometry height="60" width="120" x="335" y="865" as="geometry" />
+        <mxCell id="Qa2CwAintPQO0iESSF5v-2" edge="1" parent="1" source="JOLWe_h50yZFS5m-WW9a-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Qa2CwAintPQO0iESSF5v-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa2CwAintPQO0iESSF5v-4" edge="1" parent="1" source="JOLWe_h50yZFS5m-WW9a-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Qa2CwAintPQO0iESSF5v-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JOLWe_h50yZFS5m-WW9a-11" parent="1" style="whiteSpace=wrap;html=1;" value="Transferência Realizada com Sucesso" vertex="1">
+          <mxGeometry height="60" width="120" x="215" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa2CwAintPQO0iESSF5v-1" parent="1" style="whiteSpace=wrap;html=1;" value="Transferência Negada" vertex="1">
+          <mxGeometry height="60" width="120" x="535" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa2CwAintPQO0iESSF5v-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Obrigado!&amp;nbsp;&lt;br&gt;Até Logo" vertex="1">
+          <mxGeometry height="80" width="80" x="235" y="995" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa2CwAintPQO0iESSF5v-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="895" />
+            </Array>
+            <mxPoint x="655" y="880" as="sourcePoint" />
+            <mxPoint x="900" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa2CwAintPQO0iESSF5v-6" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="587.5" as="sourcePoint" />
+            <mxPoint x="880" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa2CwAintPQO0iESSF5v-7" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="590" as="sourcePoint" />
+            <mxPoint x="880" y="890" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
